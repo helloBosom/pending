@@ -16,5 +16,6 @@
         <module>RPC-master</module>
         <module>socket</module>
         <module>struct</module>
+        <module>fxhttp</module>
     </modules>
 </project>
