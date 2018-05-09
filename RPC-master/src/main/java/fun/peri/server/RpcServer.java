@@ -4,7 +4,7 @@ import fun.peri.common.RpcDecoder;
 import fun.peri.common.RpcEncoder;
 import fun.peri.common.RpcRequest;
 import fun.peri.common.RpcResponse;
-import fun.peri.registry.registry.ServiceRegistry;
+import fun.peri.registry.ServiceRegistry;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

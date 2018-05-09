@@ -2,7 +2,7 @@ package fun.peri.client;
 
 import fun.peri.common.RpcRequest;
 import fun.peri.common.RpcResponse;
-import fun.peri.registry.registry.ServiceDiscovery;
+import fun.peri.registry.ServiceDiscovery;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

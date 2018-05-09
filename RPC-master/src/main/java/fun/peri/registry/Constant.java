@@ -1,4 +1,4 @@
-package fun.peri.registry.registry;
+package fun.peri.registry;
 
 /**
  * 常量

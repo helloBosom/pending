@@ -1,4 +1,4 @@
-package fun.peri.registry.registry;
+package fun.peri.registry;
 
 import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooKeeper;
